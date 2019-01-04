@@ -126,7 +126,7 @@ module ActiveMerchant #:nodoc:
       end
 
       def add_ip(post, options)
-        post[:customer_ip] = options[:ip] || "127.0.0.1"
+        post[:customer_ip] = options[:ip] || '127.0.0.1'
       end
 
       def add_metadata(post, options)
