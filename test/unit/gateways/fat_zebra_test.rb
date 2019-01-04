@@ -258,7 +258,7 @@ Conn close
         :id => '001-P-12345AA',
         :card_number => 'XXXXXXXXXXXX1111',
         :card_holder => 'John Smith',
-        :card_expiry => '2011-10-31',
+        :card_expiry => '10/2011',
         :card_token => 'a1bhj98j',
         :amount => 349,
         :decimal_amount => 3.49,
